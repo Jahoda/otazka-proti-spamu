@@ -1,0 +1,2 @@
+otazka-proti-spamu
+==================
