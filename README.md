@@ -1,2 +1,2 @@
-otazka-proti-spamu
+Generování otázek proti spamu
 ==================
